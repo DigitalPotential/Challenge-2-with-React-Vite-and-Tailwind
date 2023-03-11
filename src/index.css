@@ -1,0 +1,10 @@
+/* Tailwind */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+    .w-375 {
+      width: 375px;
+    }
+  }
